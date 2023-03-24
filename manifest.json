@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "L4 TAM",
+    "description": "Prochain passage des tramways de la ligne 4 sur le réseau de Transports de l'Agglomération de Montpellier",
+    "version": "1.0",
+    "action": {
+        "default_icon" : "128.png", 
+        "default_popup": "popup.html" 
+    },
+    "icons": { 
+        "128" : "128.png" 
+    }
+}
